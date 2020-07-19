@@ -40,7 +40,7 @@ Examples in each case:
 - Boolean data type: can have one of two variables, such as **true** or **false**.  
 
 # Reference
-Jon Duckett (2011). HTML and CSS: design and build websites. John Wiley and Sons, Inc. Indianapolis, Indiana.
-Jon Duckett (2014). JAVASCRIPT & JQUERY: interactive front-end web development. John Wiley and Sons, Inc. Indianapolis, Indiana.
+- Jon Duckett (2011). HTML and CSS: design and build websites. John Wiley and Sons, Inc. Indianapolis, Indiana.
+- Jon Duckett (2014). JAVASCRIPT & JQUERY: interactive front-end web development. John Wiley and Sons, Inc. Indianapolis, Indiana.
 
   
